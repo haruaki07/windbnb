@@ -41,7 +41,7 @@
   }
 </script>
 
-<style>
+<style type="text/postcss">
   .hidelist {
     @apply invisible opacity-0;
   }

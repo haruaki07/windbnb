@@ -12,7 +12,7 @@
   $: { location, guest };
 </script>
 
-<style>
+<style type="text/postcss">
   .empty {
     @apply text-gray-400 select-none;
   }
