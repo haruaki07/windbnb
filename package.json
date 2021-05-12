@@ -10,7 +10,7 @@
     "@rollup/plugin-commonjs": "^11.0.0",
     "@rollup/plugin-node-resolve": "^7.0.0",
     "autoprefixer": "^10.0.1",
-    "postcss": "^8.1.0",
+    "postcss": "^8.2.10",
     "postcss-load-config": "^2.1.2",
     "rollup": "^1.20.0",
     "rollup-plugin-livereload": "^1.0.0",
